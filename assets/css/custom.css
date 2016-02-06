@@ -89,3 +89,13 @@ h4 {
 	left: 50%;
 	margin-left: -35px;
 }
+
+#price-timeline h4 {
+	margin: 0 0 10px;
+}
+
+#price-timeline h4 small {
+	color: white;
+	font-weight: bold;
+	display: block;
+}
