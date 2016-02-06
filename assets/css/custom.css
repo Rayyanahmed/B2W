@@ -71,3 +71,12 @@ h4 {
 #price-timeline .price.active {
 	background: #dd5638;
 }
+
+#price-timeline .price span {
+	background: #101010;
+	display: block;
+	height: 70px;
+	width: 70px;
+	text-align: center;
+	line-height: 70px;
+}
