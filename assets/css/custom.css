@@ -50,7 +50,8 @@ h4 {
 /* ===== HERO ===== */
 
 #hero {
-	background: url('../img/hero-bg.jpg') 50% 0 repeat fixed;
+	background: url('../img/hero-bg.jpg') 50% 0 repeat fixed; 
+	/* This fixed allows the background for the hero section to stay fixed when scrolling */
 	min-height: 500px;
 	padding: 40px 0;
 	color: white;
