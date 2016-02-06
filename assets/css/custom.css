@@ -82,5 +82,7 @@ h4 {
 	font-weight: bold;
 	font-size: 24px;
 	border-radius: 100%;
+	-webkit-border-radius: 100%;
+	-moz-border-radius: 100%;
 	
 }
