@@ -79,4 +79,8 @@ h4 {
 	width: 70px;
 	text-align: center;
 	line-height: 70px;
+	font-weight: bold;
+	font-size: 24px;
+	border-radius: 100%;
+	
 }
