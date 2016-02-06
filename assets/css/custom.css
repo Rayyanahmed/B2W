@@ -67,3 +67,7 @@ h4 {
 	position: relative;
 	vertical-align: top;
 }
+
+#price-timeline .price.active {
+	background: #dd5638;
+}
