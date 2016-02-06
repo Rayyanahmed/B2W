@@ -48,3 +48,7 @@ h4 {
 	-webkit-font-smoothing: antialiased;
 	text-rendering: optimizelegibility;
 }
+
+#hero .hero-text {
+	margin-top: 30px;
+}
