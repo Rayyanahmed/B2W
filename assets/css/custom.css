@@ -120,6 +120,11 @@ img {
 }
 
 /* ==== LAYOUT ===== */
+
+section {
+	padding: 80px 0;
+}
+
 #optin {
 	background: #3e4249;
 	padding: 20px 0;
