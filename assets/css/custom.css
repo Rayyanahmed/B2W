@@ -301,6 +301,13 @@ section h3 {
 	font-size: 24px;
 }
 
+footer {
+	background: #3e4249;
+	color: white;
+	padding: 20px 0 10px;
+	font-size: 12px;
+}
+
 /* ===== CUSTOM ICON SPRITES ========*/
 
 i.ci {
