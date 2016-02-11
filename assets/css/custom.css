@@ -57,7 +57,7 @@ img {
 }
 
 .modal-content {
-	background: url('../img/hero-bg.jpg') 50% repeat fixed;
+	background: url('../img/tile.jpg') top left repeat;
 }
 
 /* ===== HERO ===== */
