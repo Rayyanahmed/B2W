@@ -68,6 +68,8 @@ img {
 	text-align: center;
 	line-height: 40px;
 	margin: 0 5px 20px 0;
+	padding: 0;
+	-webkit-border-radius: 50px;
 }
 
 /* ===== HERO ===== */
