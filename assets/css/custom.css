@@ -154,3 +154,18 @@ section h3 {
 #who-benefits {
 	background-color: white;
 }
+
+#course-features {
+	background: #3e4249;
+	color: white;
+	text-align: center;
+}
+
+/* ===== CUSTOM ICON SPRITES ========*/
+
+i.ci {
+	display: inline-block;
+	height: 40px;
+	width: 40px;
+	background: url('../img/icon-sprite.png') no-repeat;
+}
