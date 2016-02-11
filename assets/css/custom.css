@@ -211,6 +211,32 @@ section h3 {
 	margin: 0 0 20px;
 }
 
+#instructor .num {
+	display: table;
+	font-size: 30px;
+	font-weight: bold;
+	color: white;
+	height: 140px;
+	width: 140px;
+	text-align: center;
+	background: #dd5638;
+	-webkit-border-radius: 100%;
+	-moz-border-radius: 100%;
+	border-radius: 100%;
+	text-rendering: optimizelegibility;
+}
+
+#instructor .num .num-content {
+	display: table-cell;
+	vertical-align: middle;
+}
+
+#instructor .num span {
+	display: block;
+	font-size: 20px;
+	font-weight: normal;
+}
+
 
 /* ===== CUSTOM ICON SPRITES ========*/
 
