@@ -367,8 +367,36 @@ i.ci {
 
 /* ===================== MEDIA QUERIES ================= */
 
-@media screen and ( max-width: 991px ) {
+@media screen and ( max-width : 991px ) {
 	#instructor .container {
 		background: rgba(255, 255, 255, 0.8);
+		padding: 20px;
+	}
+}
+
+/* Around ipad sized */
+
+@media screen and ( max-width : 768px ) {
+	.logo {
+		width: 50%;
+	}
+	#optin p {
+		margin: 0 0 10px;
+	}
+
+	#featurette iframe {
+		height: 240px;
+	}
+}
+
+@media screen and ( max-width : 568px ) {
+	#instructor .num {
+		height: 180px;
+		width: 100px;
+		font-size: 22px;
+	}
+
+	#instructor .num span {
+		font-size: 16px;
 	}
 }
