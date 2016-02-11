@@ -75,6 +75,18 @@ img {
 	color: white;
 }
 
+.badge.social.twitter:hover {
+	background: #55acee;
+}
+
+.badge.social.facebook:hover {
+	background: #3b5998;
+}
+
+.badge.social.gplus:hover {
+	background: #db4b39;
+}
+
 /* ===== HERO ===== */
 
 #hero {
