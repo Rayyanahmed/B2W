@@ -66,12 +66,13 @@ img {
 	height: 40px;
 	width: 40px;
 	text-align: center;
-	line-height: 40px;
+	line-height: 42px;
 	margin: 0 5px 20px 0;
 	padding: 0;
 	-webkit-border-radius: 50px;
 	-moz-border-radius: 50px;
 	border-radius: 50px;
+	color: white;
 }
 
 /* ===== HERO ===== */
