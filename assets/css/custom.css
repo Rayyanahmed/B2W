@@ -52,6 +52,18 @@ button, input, .btn, a.btn {
 	border-collapse: #d95131;
 }
 
+.btn-success {
+	background: #79b844;
+	border: none;
+}
+
+.btn-success:hover {
+	background: #6a9b3d;
+	border-color: #6a93bd;
+}
+
+
+
 img {
 	max-width: 100%;
 }
