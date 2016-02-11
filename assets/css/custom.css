@@ -165,6 +165,9 @@ section h3 {
 	text-align: center;
 }
 
+#featurette {
+	background: url('../img/stuff-bg.jpg');
+}
 
 
 /* ===== CUSTOM ICON SPRITES ========*/
