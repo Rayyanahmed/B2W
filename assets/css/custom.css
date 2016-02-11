@@ -56,6 +56,10 @@ img {
 	max-width: 100%;
 }
 
+.modal-content {
+	background: url('../img/hero-bg.jpg') 50% repeat fixed;
+}
+
 /* ===== HERO ===== */
 
 #hero {
