@@ -364,3 +364,11 @@ i.ci {
 .ci.ci-community 	{ background-position: -120px 0; }
 .ci.ci-instructor 	{ background-position: -160px 0; }
 .ci.ci-device 	{ background-position: -200px 0; }
+
+/* ===================== MEDIA QUERIES ================= */
+
+@media screen and ( max-width: 991px ) {
+	#instructor .container {
+		background: rgba(255, 255, 255, 0.8);
+	}
+}
