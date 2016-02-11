@@ -166,7 +166,7 @@ section h3 {
 }
 
 #featurette {
-	background: url('../img/stuff-bg.jpg');
+	background: url('../img/stuff-bg.jpg') 50% 100% repeat fixed;
 }
 
 
