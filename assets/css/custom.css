@@ -356,6 +356,15 @@ footer li.signup-link a:hover {
 	position: relative;
 	border: solid 1px #ddd;
 	background: white;
+	margin: 0 0 40px;
+	-webkit-border-radius: 4px;
+	-moz-border-radius: 4px;
+	border-radius: 4px;
+}
+
+.post header,
+.post .post-excerpt {
+	padding: 20px;
 }
 
 /* ===== CUSTOM ICON SPRITES ========*/
