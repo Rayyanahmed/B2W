@@ -349,6 +349,15 @@ footer li.signup-link a:hover {
 	font-weight: bold;
 }
 
+
+/* ======== BLOG =============== */
+
+.post {
+	position: relative;
+	border: solid 1px #ddd;
+	background: white;
+}
+
 /* ===== CUSTOM ICON SPRITES ========*/
 
 i.ci {
